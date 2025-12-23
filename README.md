@@ -27,6 +27,4 @@
 * **預訓練模型:** RoBERTa
 
 
-```bash
-git clone [https://github.com/你的用戶名/ai-vs-human-classifier.git](https://github.com/你的用戶名/ai-vs-human-classifier.git)
-cd ai-vs-human-classifier
+
